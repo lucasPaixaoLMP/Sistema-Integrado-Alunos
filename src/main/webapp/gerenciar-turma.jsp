@@ -1,3 +1,9 @@
+<%-- 
+    Document   : gerenciar-turma
+    Created on : 27 de nov. de 2025
+    Author     : Lucas Mathias, Carlos Eduardo
+--%>
+
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ page import="model.Usuario" %>
 <%
