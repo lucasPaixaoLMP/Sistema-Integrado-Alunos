@@ -263,11 +263,6 @@
                                title="Ver PDF">
                                 📄 PDF
                             </a>
-                            <a href="certificado?action=editar&id=<%= cert.getId() %>" 
-                               class="btn btn-edit"
-                               title="Editar Certificado">
-                                ✏️ Editar
-                            </a>
                             <a href="#" 
                                onclick="confirmarExclusao(<%= cert.getId() %>, '<%= cert.getAluno().getNome() %>')"
                                class="btn btn-delete"
